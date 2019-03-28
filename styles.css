@@ -1,0 +1,58 @@
+.list-item {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    max-height: 99%;
+}
+
+body {
+    margin-left: 35px;
+    margin-right: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#nav {
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    border-style: inset;
+    border-width: 5px;
+    border-color: white;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+#title {
+    font-size: 60px;
+}
+
+#subtitle {
+    font-size: 45px;
+}
+
+#title-box {
+    text-align: center;
+}
+
+html {
+    background-color: rgba(0, 0, 0, 0.89);
+    color: aliceblue;
+}
+
+img {
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+    font-size: 50px;
+}
+
+#top-button-label {
+    text-align: center;
+}
